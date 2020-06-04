@@ -1,7 +1,11 @@
-# 백준 문제풀기
+# 코딩테스트 문제풀기
 
-[https://www.acmicpc.net/](https://www.acmicpc.net/)
+[백준](https://www.acmicpc.net/)
 
-### 매일 하루에 4~5문제풀기
+[프로그래머스](https://programmers.co.kr/)
+
+[코딜리티](https://app.codility.com/programmers/)
+
+### 매일 풀기
 
  
